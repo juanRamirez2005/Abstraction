@@ -1,4 +1,4 @@
-﻿namespace Abstracción
+﻿namespace Abstracción.Abstraction
 {
     internal class Program
     {
